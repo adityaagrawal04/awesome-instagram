@@ -66,8 +66,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Tools
 
-- [Zapier Instagram Integrations](https://zapier.com/apps/instagram-for-business/integrations) – Automate workflows with Instagram.
+- [GramSort](https://github.com/adityaagrawal04/gramsort) – Organize, caption, and deduplicate personal Instagram data exports.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
+- [Zapier Instagram Integrations](https://zapier.com/apps/instagram-for-business/integrations) – Automate workflows with Instagram.
 
 ## Communities & Forums
 
